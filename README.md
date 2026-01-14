@@ -1,5 +1,39 @@
-# Financas
-Projeto desenvolvido com yfinance, pandas, matplotlib e openpyxl. Criado para analisar e monitorar o índice bovespa e carteira de investimentos nos últimos 360 dias.
+# Análise de Carteira de Investimentos
+
+## Visão Geral
+Projeto desenvolvido em **Python** para análise de carteira de investimentos, com foco em organização de dados financeiros, acompanhamento de ativos e geração de indicadores e visualizações que auxiliam na tomada de decisão.
+
+A automação foi criada para transformar dados brutos de investimentos em informações claras, reduzindo trabalho manual e facilitando análises recorrentes.
+
+## Problema
+Acompanhar uma carteira de investimentos manualmente pode ser trabalhoso, especialmente quando envolve múltiplos ativos, históricos de preços, variações e necessidade de análises frequentes. Planilhas manuais e cálculos repetitivos aumentam o risco de erro e consomem tempo.
+
+## Solução
+Este projeto automatiza a análise da carteira utilizando Python para:
+- Organizar dados de investimentos  
+- Calcular métricas e indicadores financeiros  
+- Gerar gráficos e visualizações automáticas  
+- Facilitar o acompanhamento da performance da carteira  
+
+A solução permite análises rápidas, consistentes e reproduzíveis, economizando tempo operacional.
+
+## Tecnologias Utilizadas
+- Python  
+- Pandas (manipulação e análise de dados)  
+- Matplotlib (geração de gráficos)  
+- CSV / Excel (entrada e saída de dados)
+
+## Como Funciona
+1. Os dados da carteira são carregados a partir de arquivos CSV ou planilhas.  
+2. O script processa e organiza as informações dos ativos.  
+3. São realizados cálculos de métricas e análises de desempenho.  
+4. Gráficos e relatórios são gerados automaticamente para visualização.
+
+## Execução
+Instale as dependências necessárias:
+```bash
+pip install -r requirements.txt
+
  
  Gráfico Ibovespa
  
