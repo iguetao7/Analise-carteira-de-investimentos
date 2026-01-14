@@ -1,4 +1,4 @@
-# Análise de Carteira de Investimentos
+# Análise de Carteira de Investimentos 
 
 ## Visão Geral
 Projeto desenvolvido em **Python** para análise de carteira de investimentos, com foco em organização de dados financeiros, acompanhamento de ativos e geração de indicadores e visualizações que auxiliam na tomada de decisão.
